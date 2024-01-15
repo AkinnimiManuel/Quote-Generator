@@ -11,27 +11,26 @@ const quotes = [
 	{
 		quote:
 			'If you want to buy things without looking at the price tag you have to be able to work without looking at the clock',
-		person: 'Akinnimi Kolawole',
-		s,
+		person: 'Anthony goodebumps',
 	},
 	{
 		quote:
 			'Every single person has to go thorough something that absolutely destroys them so they can find out who they really are',
-		person: 'Steve',
+		person: 'Steve wonder',
 	},
 	{
 		quote: 'Become a ghost, forget attention, you just grow in private',
-		person: 'Akinnimi Stefan',
+		person: 'Laura Stephanie',
 	},
 	{
 		quote:
 			'Go to war with the man in the mirror and dont come back until you win',
-		person: 'Akinnimi Emmanuel',
+		person: 'Jessica Bianca',
 	},
 	{
 		quote:
 			'Brutal consistency, Dedication, Patience, Discipline, focus and Grit',
-		person: 'Akinnimi Damilola',
+		person: 'Danny Walter',
 	},
 	{
 		quote: 'A man who can control is lust is unstoppable',
